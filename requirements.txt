@@ -4,3 +4,15 @@ matplotlib
 seaborn
 jupyter
 openpyxl
+
+LIB USED
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Power BI
+Power Query
+DAX
+Git
+GitHub
